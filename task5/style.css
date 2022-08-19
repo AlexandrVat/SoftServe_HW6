@@ -1,0 +1,29 @@
+.firstHead{
+    background-color: rgb(134, 218, 134);
+ 
+ }
+
+ .firstpar{
+    font-weight: bold;
+ 
+ }
+
+ .secondpar{
+   color: red;
+ 
+ }
+
+ .thirdpar{
+    text-decoration: underline;
+  
+  }
+
+  .fourthpar{
+    font-style: italic;
+  
+  }
+
+  .ghost{
+     visibility: hidden;      
+ 
+  }

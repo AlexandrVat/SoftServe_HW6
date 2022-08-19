@@ -1,0 +1,1 @@
+document.querySelector('img.image').src = 'cat.jpg'
